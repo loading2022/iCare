@@ -5,7 +5,6 @@ import queue
 import azure.cognitiveservices.speech as speechsdk
 from flask import Flask, render_template, request, jsonify, url_for, send_from_directory
 import openai
-import uuid
 import requests
 import json
 
