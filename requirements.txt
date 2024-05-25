@@ -2,4 +2,3 @@ openai
 azure-cognitiveservices-speech
 flask
 requests
-libssl-dev libasound2
